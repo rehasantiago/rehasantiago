@@ -5,7 +5,7 @@
 
 I love writing code. I believe in the power of programming to transform and improve the lives of people around the world. 
 
-- 🏢 I'm currently working at [Yellow Messenger](https://yellowmessenger.com/)
+🏢 I'm currently working at [Yellow Messenger](https://yellowmessenger.com/)
 
 
 *Languages and Tools:* 
