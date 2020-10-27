@@ -2,6 +2,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rehasantiago)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reha-santiago/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:santiagoreha.r@gmail.com)
+![](https://komarev.com/ghpvc/?username=rehasantiago&color=blue&style=flat-square&label=Profile+visitors)
 
 I love writing code. I believe in the power of programming to transform and improve the lives of people around the world. 
 
